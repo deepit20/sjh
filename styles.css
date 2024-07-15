@@ -1,0 +1,7 @@
+body {
+    background-image: url(weather.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #fbfbfb; /* Use the color code or name of your choice */
+  }
